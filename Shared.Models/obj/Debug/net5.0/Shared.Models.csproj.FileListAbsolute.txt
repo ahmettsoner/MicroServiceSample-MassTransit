@@ -1,0 +1,12 @@
+D:\PC\source\workshop\KaushiRoyChowdhury\Microservices\Microservices.WebApi\Shared.Models\bin\Debug\net5.0\Shared.Models.deps.json
+D:\PC\source\workshop\KaushiRoyChowdhury\Microservices\Microservices.WebApi\Shared.Models\bin\Debug\net5.0\Shared.Models.dll
+D:\PC\source\workshop\KaushiRoyChowdhury\Microservices\Microservices.WebApi\Shared.Models\bin\Debug\net5.0\ref\Shared.Models.dll
+D:\PC\source\workshop\KaushiRoyChowdhury\Microservices\Microservices.WebApi\Shared.Models\bin\Debug\net5.0\Shared.Models.pdb
+D:\PC\source\workshop\KaushiRoyChowdhury\Microservices\Microservices.WebApi\Shared.Models\obj\Debug\net5.0\Shared.Models.csproj.AssemblyReference.cache
+D:\PC\source\workshop\KaushiRoyChowdhury\Microservices\Microservices.WebApi\Shared.Models\obj\Debug\net5.0\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC\source\workshop\KaushiRoyChowdhury\Microservices\Microservices.WebApi\Shared.Models\obj\Debug\net5.0\Shared.Models.AssemblyInfoInputs.cache
+D:\PC\source\workshop\KaushiRoyChowdhury\Microservices\Microservices.WebApi\Shared.Models\obj\Debug\net5.0\Shared.Models.AssemblyInfo.cs
+D:\PC\source\workshop\KaushiRoyChowdhury\Microservices\Microservices.WebApi\Shared.Models\obj\Debug\net5.0\Shared.Models.csproj.CoreCompileInputs.cache
+D:\PC\source\workshop\KaushiRoyChowdhury\Microservices\Microservices.WebApi\Shared.Models\obj\Debug\net5.0\Shared.Models.dll
+D:\PC\source\workshop\KaushiRoyChowdhury\Microservices\Microservices.WebApi\Shared.Models\obj\Debug\net5.0\ref\Shared.Models.dll
+D:\PC\source\workshop\KaushiRoyChowdhury\Microservices\Microservices.WebApi\Shared.Models\obj\Debug\net5.0\Shared.Models.pdb

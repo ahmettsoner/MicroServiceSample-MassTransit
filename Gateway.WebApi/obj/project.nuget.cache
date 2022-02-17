@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7soqhep3IQP9hCNon+MQBVZdmVvZuHzcacQGaktc1/8MZM7cpm0HNBj0yDS1WH55K7vZ6VAqMwuVqi/wgWlJyQ==",
+  "success": true,
+  "projectFilePath": "D:\\PC\\source\\workshop\\KaushiRoyChowdhury\\Microservices\\Microservices.WebApi\\Gateway.WebApi\\Gateway.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmet Soner\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
